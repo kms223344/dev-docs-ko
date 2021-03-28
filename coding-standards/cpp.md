@@ -2,7 +2,6 @@
 title: "C++ 코딩 표준"
 date: 2021-02-24
 ---
-
 * 원문(영어): [C++ Coding Standards](https://docs.google.com/document/d/1cT8EPgMXe0eopeHvwuFmbHG4TJr5kUmcovkr5irQZmo/edit )
 
 ## 머리말
